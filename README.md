@@ -323,6 +323,8 @@ Contributions are welcome! Please:
 - [ai-agents-docker-automation](https://github.com/Im044/ai-agents-docker-automation) - Docker automation
 - [ai-agent-framework](https://github.com/Im044/ai-agent-framework) - Agent framework
 - [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - LLM resources
+- [ai-projects-collection](https://github.com/Im044/ai-projects-collection) - AI and ML projects with complete code
+- [ai-games-collection](https://github.com/Im044/ai-games-collection) - AI-powered games using machine learning
 
 ## 📝 License
 
